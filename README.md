@@ -1,7 +1,7 @@
 # Final Project Demos List
 
 Add your team name, a link to your demo video, and a link to your main project repository (whatever it is named).
-To do this, just make it look like the example on line 11.
+To do this, just structure it look like the example on line 11: team name, demo video url, project repo url all separated by pipes.
 
 To save it, Make sure to click the green button at the bottom that says "Propose changes" and then, on the page that follows, create a pull request by clicking the green button that says "Create pull request."
 See illustration below.
